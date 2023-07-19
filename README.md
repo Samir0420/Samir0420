@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Samir, a passionate programmer and computer science student. I'm currently in my second year of studying computer science and I'm excited to learn as much as I can about programming and technology.<br><br>My main interests lie in learning new programming languages and creating projects to showcase my skills. I'm always on the lookout for new challenges and opportunities to grow as a developer.<br><br>Here are some of the programming languages I'm currently proficient in:<br><br>- Python<br>- Java<br>- JavaScript<br>- HTML<br>- CSS<br><br>I'm also familiar with various development tools such as Git, Visual Studio Code, and IntelliJ IDEA.
+Hi there! I'm Samir, a passionate programmer and computer science student. I'm currently in my second year of studying computer science and I'm excited to learn as much as I can about programming and technology.<br><br>My main interests lie in learning new programming languages and creating projects to showcase my skills. I'm always on the lookout for new challenges and opportunities to grow as a developer.<br><br>Here are some of the programming languages I have worked with:<br><br>• Python<br>• Java<br>• C<br>• SQl<br>• JavaScript<br>• HTML<br>• CSS<br><br>I'm also familiar with various development tools such as Git, Visual Studio Code, and IntelliJ IDEA.
 
 
 ## 🌐 Socials:
